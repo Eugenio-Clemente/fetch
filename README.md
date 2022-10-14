@@ -24,9 +24,5 @@
 
 - CSS Border 
 
-- JS QuerySelectorAll
-
-- JS AddEventListener
-
-- JS QuerySelector
+- JS GetElementById
 ````
